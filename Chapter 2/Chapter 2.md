@@ -1,9 +1,12 @@
 # Chapter 2  
 ##### *October 2nd, 2023*
+---
+#In this Chapter:
 * Joining a Windows VM to the Domain
 * Installing Parrot OS - Resource and Package Management in Debian Systems Using Limited Resources
 * Some Absurdist Parsing Practice
-In the previous chapter I had decided to work on hardening next, but I decided to further flesh out my home lab and check out some more options. I'm certainly going to do hardening in a chapter soon, but I'd like to expand my infrastructure some more and see about some other experiments. 
+
+Welcome back to my homelab journal! In the previous chapter I had decided to work on hardening next, but I decided to further flesh out my home lab and check out some more options. I just got back from vacation and I had some time to think about what direction I'd like to take this. I'm certainly going to do hardening in a chapter soon, but I'd like to expand my infrastructure some more and see about some other experiments. 
 
 You'll notice that the structure, objectives, and content will likely change from chapter to chapter. I like the idea of writing in the form of journal entries for now. I appreciate your interest while I find my stride.
 
