@@ -1,7 +1,7 @@
 # Chapter 2  
 ##### *October 2nd, 2023*
 ---
-#In this Chapter:
+# In this Chapter:
 * Joining a Windows VM to the Domain
 * Installing Parrot OS - Resource and Package Management in Debian Systems Using Limited Resources
 * Some Absurdist Parsing Practice
