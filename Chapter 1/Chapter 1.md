@@ -16,7 +16,6 @@ I decided that an solid foundation for my home lab would be an Active Directory 
 ---
 ## After the installation and setup of a Domain Admin, I used best practices from my SANS SEC401 curriculum to configure the Default Domain Policy, including password complexity and account lockout.
 ![](attachment/d9e791ed5b641ecf8daaabaac8ec114b.png)
-![](attachment/26b817d27d43c4120c9aff71fa23a3e0.png)
 ![](attachment/26d259dbb9314b2cf58e2d320b09bc77.png)
 * The SEC401 curriculum also contains a wealth of other Active Directory best practices including security event log and audit policies. I will be deferring to their recommendations quite often to configure additional security controls.
 * I defined the Default Domain Policies in `Computer Configuration > Windows Settings > Security Settings > Local Policies > Audit Policy` so that basic security auditing can be applied on all computers within the domain, regardless of who logs on to them.
