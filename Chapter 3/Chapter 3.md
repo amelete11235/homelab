@@ -35,8 +35,10 @@ I'll run some basic nmap scans against Suricata and the DC just to see if anythi
 ![](a/94661829d96ce1b822c6b70f6221b3af.png)
 ![](a/7f50954223b7a009f1bd81ce93fd4ca6.png)
 ![](a/b6e591bc791e0ee7abbab3e549c152c0.png)
+
 ### Scanning Parrot "Architect Edition" w/ Suricata
 ![](a/aaf450f8b92d437f060c346ca4bd5471.png)
+
 *I can see that SSH is open by default. It must have to do with Parrot OS or remote admin for Suricata*
 
 ![](a/957558ad3b30aeb79bb3e751beea8c32.png)
