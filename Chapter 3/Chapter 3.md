@@ -46,11 +46,10 @@ After quite a lot of breaking things and rebuilding them, I managed to get them 
 I'll run some basic nmap scans against Suricata and the DC just to see if anything shows up in Suricata logs or the event viewer with default settings.
 
 ### Scanning the DC
-
 ![](a/94661829d96ce1b822c6b70f6221b3af.png)
 
-![](a/7f50954223b7a009f1bd81ce93fd4ca6.png)
 
+![](a/7f50954223b7a009f1bd81ce93fd4ca6.png)
 ![](a/b6e591bc791e0ee7abbab3e549c152c0.png)
 
 ### Scanning Parrot "Architect Edition" w/ Suricata
