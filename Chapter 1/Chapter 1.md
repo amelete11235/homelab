@@ -155,8 +155,6 @@ PS C:\Users\Administrator> shutdown.exe /r /t 0
 ![](attachment/a2fe17ff605994c4e95cf61fa822e88e.png)
 
 ---
-## Now that that's over, it's time for me to get hard! 
-![](attachment/5c0563d0699a3dfb61537e563e79586c.png)
 # Next time, I'll be testing several different security baseline hardening and auditing automations! See you soon!
 ---
 ## My inspiration for this stage of the home lab came from many places:
