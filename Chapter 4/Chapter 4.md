@@ -2,8 +2,6 @@
 * Nmap, Metasploit, Hydra, Testing Suricata
 ##### *October 6th, 2023*
 ---
-# Intro
-
 ### Getting Suricata Ready
 
 ![](a/1f7fd79199dcaa78562746c7bcf8b4cb.png)
