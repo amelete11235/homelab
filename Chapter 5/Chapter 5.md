@@ -19,6 +19,8 @@ I got some advice on my home lab that I ought to try out Kali Purple in order to
 
 In the mean-time I decided to complete the capstone CTF from SANS's SEC504, which I have yet to complete since it wasn't required for course completion. That's what this chapter will be about. I'm not sure how much I can share here without breaking the rules. I'll have to be a little bit cryptic in this journal entry.
 
+***Warning to Sans Students! This may contain spoilers!!!***
+
 ## Website Reconnaissance
 
 I've been tasked by the company, ISS Playlist to help them with some security investigations.
