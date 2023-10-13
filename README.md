@@ -39,6 +39,11 @@
 * certutil.exe (LOL)
 * Process Migration / Privilege Escalation
 
+[Chapter 6](https://github.com/clarity11235/homelab/blob/main/Chapter%206/Chapter%206.md)
+
+* Backdoor Account
+* WMI Persistence Backdoor with Metasploit
+
 [Extras](https://github.com/clarity11235/homelab/tree/main/Extras)
 
 *A collection of my school projects from 2022*
