@@ -40,6 +40,7 @@
 * Process Migration / Privilege Escalation
 
 [Extras](https://github.com/clarity11235/homelab/tree/main/Extras)
+
 *A collection of my school projects from 2022*
 * [LAMP Stack, osTicket Deployment](https://github.com/clarity11235/homelab/blob/main/Extras/GROUP%2042%20OST%20Technical%20Report.pdf)
 * [Wireguard, AD, PiHole, and Azure Deployment](https://github.com/clarity11235/homelab/blob/main/Extras/Group42_Final%20Technical%20Report%20.pdf)
@@ -49,4 +50,5 @@
 * [Shadow File Security Warning](https://github.com/clarity11235/homelab/blob/main/Extras/Shadow%20File%20Security%20Warning.pdf)
 
 [Certs](https://github.com/clarity11235/homelab/tree/main/Certs)
+
 *A miscellaneous collection of my certifications*
