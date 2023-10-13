@@ -44,6 +44,8 @@
 * Backdoor Account
 * WMI Persistence Backdoor with Metasploit
 
+---
+
 [Extras](https://github.com/clarity11235/homelab/tree/main/Extras)
 
 *A collection of my school projects from 2022*
