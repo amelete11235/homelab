@@ -51,4 +51,4 @@
 
 [Certs](https://github.com/clarity11235/homelab/tree/main/Certs)
 
-*A miscellaneous collection of my certifications*
+*A collection of my miscellaneous lesser certifications*
