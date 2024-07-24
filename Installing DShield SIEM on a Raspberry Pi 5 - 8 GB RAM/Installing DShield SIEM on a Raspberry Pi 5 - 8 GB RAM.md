@@ -29,6 +29,7 @@ Authored by linkedin.com/in/dylan-r-cyber | github.com/amelete11235/homelab
 ![](a/Pasted%20image%2020240717162237.png)
 
 3. Click *NEXT* and then *Edit Settings*
+
 ![](a/Pasted%20image%2020240717162343.png)
 ![](a/Pasted%20image%2020240717162924.png)
 
@@ -39,11 +40,13 @@ Authored by linkedin.com/in/dylan-r-cyber | github.com/amelete11235/homelab
 ![](a/Pasted%20image%2020240717163703.png)
 
 6. Apply OS customization settings.
+
 ![](a/Pasted%20image%2020240717164148.png) 
 
 7. You will be notified that the drive is going to be overwritten. **If you chose the wrong drive and you continue, you will lose data.
 
 8. When finished, remove the SD card from your computer, insert it into your Raspberry Pi, and make sure that the Pi is powered and plugged in to your router.
+
 ![](a/Pasted%20image%2020240717164352.png)
 
 9. Look in your router's admin console (usually by going to http://192.168.0.1 in your web browser) for the new device and it's IP address. Use this IP address and the username/password you configured in step 4 to ssh to the Pi:
@@ -423,12 +426,14 @@ You will need a free account and an API key for the following integrations:
 2. Select the following integrations
 
 - **AbuseCH:** Make sure you select *Where to add this integration? > Existing Hosts > Fleet Server Policy*. 
+
 ![](a/Pasted%20image%2020240718215931.png)
 ![](a/Pasted%20image%2020240718211959.png)
 ![](a/Pasted%20image%2020240718220200.png)
 ![](a/Pasted%20image%2020240718220222.png)
 
 - **Threat Intelligence Utilities:** Make sure you select *Where to add this integration? > Existing Hosts > Fleet Server Policy*.
+
 ![](a/Pasted%20image%2020240718215340.png)
 ![](a/Pasted%20image%2020240718215445.png)
 ![](a/Pasted%20image%2020240718215855.png)
@@ -438,6 +443,7 @@ You will need a free account and an API key for the following integrations:
 	- Make sure you select *Where to add this integration? > Existing Hosts > Fleet Server Policy*.
 	- This requires you to create an account at otx.alienvault.com
 	- Retrieve your API key in your account: *Click the gear in the upper right > Settings > Copy the OTX Key*
+
 ![](a/Pasted%20image%2020240723201444.png)
 ![](a/Pasted%20image%2020240723201511.png)
 ![](a/Pasted%20image%2020240723201835.png)
@@ -446,18 +452,21 @@ You will need a free account and an API key for the following integrations:
 
 
 - **ElasticSearch**
+
 ![](a/Pasted%20image%2020240723215033.png)
 ![](a/Pasted%20image%2020240723215102.png)
 ![](a/Pasted%20image%2020240723230325.png)
 
 
 * **Kibana**
+
 ![](a/Pasted%20image%2020240723230734.png)
 ![](a/Pasted%20image%2020240723230746.png)
 ![](a/Pasted%20image%2020240723230814.png)
 
 
 - **Docker**
+
 ![](a/Pasted%20image%2020240723230904.png)
 ![](a/Pasted%20image%2020240723230916.png)
 ![](a/Pasted%20image%2020240723231009.png)
