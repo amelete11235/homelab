@@ -7,7 +7,7 @@ Based on https://github.com/bruneaug/DShield-SIEM
 # Hardware and OS Installation
 ## Hardware Requirements
 
-- You will need a separate DSHield honeypot, of course! 
+- You will need a separate DShield honeypot, of course! 
 
 ***I tested this installation on a Raspberry Pi 5, with 8 GB of RAM.***
 - I did not test this on other generations of Raspberry Pi.
