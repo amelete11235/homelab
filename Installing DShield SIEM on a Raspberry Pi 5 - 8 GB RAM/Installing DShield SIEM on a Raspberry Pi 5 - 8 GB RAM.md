@@ -489,4 +489,20 @@ You will need a free account and an API key for the following integrations:
 # From this point forward, follow Guy Bruneau's original tutorial to finish your SIEM installation and install the agent on your honeypot.
 ### Go to the *Configuration Security -> Rules* step at https://github.com/bruneaug/DShield-SIEM/tree/main
 ---
+# Accessing your dashboards and logs
+
+#### Analytics > Discover > Select cowrie in the upper left
+
+![image](https://github.com/user-attachments/assets/f45e09db-0908-4bab-9a69-e13da780c8ab)
+
+#### Analytics > Dashboards > [Logs DShield Sensor] Overview
+
+![image](https://github.com/user-attachments/assets/fb06e931-2d1a-47f5-aed3-232e1eccb996)
+
+#### Analytics > Dashboards > DShield Main Page Activity
+
+![image](https://github.com/user-attachments/assets/5d2268b9-c0dc-40ff-84f6-55d794d22990)
+
+
+---
 # I'd like to include a special *"Thank you!"* to the ISC's Guy Bruneau and  Jesse La Grew for their mentorship during my time in the ISC Internship.
